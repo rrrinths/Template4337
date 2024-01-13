@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Template4337
 {
     /// <summary>
-    /// Логика взаимодействия для _4337_Гатина.xaml
+    /// Логика взаимодействия для Gatina_4337.xaml
     /// </summary>
-    public partial class _4337_Гатина : Window
+    public partial class Gatina_4337 : Window
     {
-        public _4337_Гатина()
+        public Gatina_4337()
         {
             InitializeComponent();
         }
