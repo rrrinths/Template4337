@@ -24,5 +24,10 @@ namespace Template4337
         {
             InitializeComponent();
         }
+
+        private void gruppa4337_Gatina(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
